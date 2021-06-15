@@ -12,7 +12,7 @@ const myHome = () => {
 
   const newDiv = document.createElement('div');
   const title = document.createElement('h4');
-  title.innerHTML = "The Restaurant";
+  title.innerHTML = 'The Restaurant';
   newDiv.appendChild(title);
 
   const img = document.createElement('img');
