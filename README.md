@@ -15,6 +15,9 @@
 - Bootstrap
 - Lots of love :heart:
 
+## Live Demo
+
+[Live Demo](https://shaher-11.github.io/restaurant-page/)
 
 ### Installation
 
