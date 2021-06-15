@@ -1,4 +1,10 @@
 body {
-  color: rgb(175, 207, 145);
-  background-color: rgb(35, 35, 36);
+  color: rgb(120, 218, 204);
+  background-color: rgb(39, 40, 41);
+}
+
+.my-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
