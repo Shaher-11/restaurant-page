@@ -24,3 +24,11 @@ p {
   height: 40rem;
   border-radius: 30%;
 }
+
+#contact {
+  font-size: 2rem;
+}
+
+.my-btn {
+  background-color: rgb(120, 218, 204);
+}
