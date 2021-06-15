@@ -15,10 +15,13 @@
 - Bootstrap
 - Lots of love :heart:
 
+## Live Demo
+
+[Live Demo](https://shaher-11.github.io/restaurant-page/)
 
 ### Installation
 
-In order to run the linter on your local machine, please run the following commands on your terminal:
+In order to get the project on your local machine, please run the following commands on your terminal:
 
 > 1. Run `https://github.com/Shaher-11/restaurant-page`
 > 2. Run `cd restaurant-page`
