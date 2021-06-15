@@ -8,3 +8,19 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+h4 {
+  text-align: center;
+  margin-top: 2rem;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+  color: white;
+}
+
+.rest-img {
+  height: 40rem;
+  border-radius: 30%;
+}
