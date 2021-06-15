@@ -6,6 +6,24 @@
 
 ![screenshot](./assets/app.png)
 
+## Built with
+
+- JavaScript
+- Webpack
+- HTML
+- CSS
+- Bootstrap
+- Lots of love :heart:
+
+
+### Installation
+
+In order to run the linter on your local machine, please run the following commands on your terminal:
+
+> 1. Run `https://github.com/Shaher-11/restaurant-page`
+> 2. Run `cd restaurant-page`
+> 3. Run `npm install --save-dev webpack`
+> 4. Open index.html file with the browser
 
 ## Author:
 
