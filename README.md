@@ -1,35 +1,32 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# 
+# The Restaurant
 
-#### 
+> This the project of the restaurant page built entirely with javascript and the good usage of webpack.
 
+![screenshot](./assets/app.png)
 
 ## Built with
 
-- Ruby -v 3.0.0
-- Rails -v 6.1.3.1
-- SQLite3
-- VScode
+- JavaScript
+- Webpack
+- HTML
+- CSS
+- Bootstrap
 - Lots of love :heart:
 
-## Getting Started
+## Live Demo
 
-### Prerequisites
-
-To get this project up and running locally, you must already have ruby and the necessary gems installed on your computer
+[Live Demo](https://shaher-11.github.io/restaurant-page/)
 
 ### Installation
 
-In order to run the linter on your local machine, please run the following commands on your terminal:
+In order to get the project on your local machine, please run the following commands on your terminal:
 
-> 1. Run `https://github.com/Shaher-11/private-events.git`
-> 2. Run `cd private-events`
-> 3. Run bundle install to get the necessary gems.
-> 4. Run yarn install.
-> 5. Run rails db:migrate.
-> 6. Run rails server 
-> 7. Open localhost:3000 to open the application
+> 1. Run `https://github.com/Shaher-11/restaurant-page`
+> 2. Run `cd restaurant-page`
+> 3. Run `npm install --save-dev webpack`
+> 4. Open index.html file with the browser
 
 ## Author:
 

@@ -1,0 +1,34 @@
+body {
+  color: rgb(120, 218, 204);
+  background-color: rgb(39, 40, 41);
+}
+
+.my-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h4 {
+  text-align: center;
+  margin-top: 2rem;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+  color: white;
+}
+
+.rest-img {
+  height: 40rem;
+  border-radius: 30%;
+}
+
+#contact {
+  font-size: 2rem;
+}
+
+.my-btn {
+  background-color: rgb(120, 218, 204);
+}
